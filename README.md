@@ -1,4 +1,4 @@
-# 📊 GoogleSheet Sales Analysis Project
+# 📊 Google Sheets Project: KPI-based Sales Analysis
 
 This project analyzes sales data to track **Key Performance Indicators (KPIs)** such as:
 - Customer sales performance
