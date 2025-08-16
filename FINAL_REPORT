@@ -1,0 +1,35 @@
+📊 Google Sheets Project: KPI-based Sales Analysis
+
+This project was built in Google Sheets to analyze retail sales data and derive meaningful Key Performance Indicators (KPIs). The tasks were designed to gain hands-on experience with formulas, reporting, and KPI dashboards.
+
+✅ Key Analyses & Insights
+
+ 1. Customer Sales
+  - Highest sales contributed by Customer ID: 712345377.
+  - Example: Transaction ID 31245032 of Product ID 10000338 resulted in sales of 300 INR.
+ 2. Festival Sales (8–15 Dec)
+  - Top Product: Cornflakes_1Kg (Product ID 10000345)
+  - Highest Sales Amount: 948 INR during the festive period.
+ 3. ARPU (Average Revenue Per User) by State
+  - Maharashtra ARPU: 186.43 INR
+  - Highest ARPU observed in West Bengal (282.81 INR).
+ 4. Sales by Category & City
+  - Pune contributed 4083 INR in Cereals sales.
+  - Bangalore emerged as the top city across multiple categories.
+
+🛠️ Skills & Tools Applied
+
+ 1. Google Sheets for reporting
+ 2. Formulas Used: SUMIFS, VLOOKUP, COUNTIF, IFS
+ 3. Data Cleaning: Removing duplicates & mapping categories
+ 4. KPI Calculation: ARPU, Top Customers, Product Sales
+ 5. Formatting & Filters for interactive dashboards
+
+📌 Learnings
+
+ 1. Built confidence in transforming raw sales data into insights
+ 2. Used Google Sheets + ChatGPT as a powerful combo for faster problem-solving
+ 3. Developed structured reports useful for business decision-making
+
+
+#Excel #GoogleSheets #KPIs #DataAnalytics #SalesPerformance #BusinessIntelligence #LearningByDoing #ANALYTICSSHIKSHA
